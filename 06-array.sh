@@ -1,6 +1,6 @@
 #!/bin/bash
 
-movie=("RRR" "KGF" "saho")
+movie=("RRR" "KGF" "saho" "ram")
 
 # size of the above array is 3
 # index is 2 ...starts with 0 1 2...
