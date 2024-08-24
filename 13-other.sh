@@ -1,8 +1,8 @@
 #!/bin/bash
 
-course="from devops team"
+var="from devops team"
 
-echo "aws certification $course"
+echo "aws certification $var"
 echo "PID $$"
  
 
